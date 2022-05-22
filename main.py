@@ -12,4 +12,3 @@ bot.add_cog(music_cog(bot))
 bot.add_cog(help_cog(bot))
 
 bot.run(os.getenv("TOKEN"))
-# bot.run('OTc3OTc0MzY5NDUwMDY1OTUw.GFUtdd.h5L2SBKVNL2F6X8yvqnNF46dIsYGqcW7r3nSx0')
